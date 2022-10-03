@@ -23,7 +23,7 @@ body{
 
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgba(161, 140, 209, 0.4) 0%, rgba(251, 194, 235, 0.4) 100%), url(../img/image8.jpeg);
+    background-image: linear-gradient(to top, rgba(131, 106, 190, 0.4) 0%, rgba(34, 125, 211, 0.4) 100%), url(../img/image8.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -126,8 +126,8 @@ header{
 .number{
     display: inline-block;
     background-image: linear-gradient(to top, var(--color-1) 0%, var(--color-2) 100%);
-    width: 30px;
-    height: 30px;
+    width: 10px;
+    height: 10px;
     color: #fff;
     text-align: center;
     border-radius: 50%;
